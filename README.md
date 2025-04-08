@@ -41,7 +41,7 @@ No external libraries are needed beyond the built-in `re` module (for regex).
 ```bash
 git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
-python code.py
+python password_checker.py
 ```
 ## Example
 ```
